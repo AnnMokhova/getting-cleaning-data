@@ -1,5 +1,6 @@
 # getting-cleaning-data
-h1 Getting and Cleaning Data Course Project
+Getting and Cleaning Data Course Project
+-----------------------------------
 
 `run_analysis.R` script file, which does the following:
 1. Downloads and unzips data set
@@ -11,6 +12,6 @@ h1 Getting and Cleaning Data Course Project
 
 `tidy.txt` file with tidy data set
 
-**data set url** <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
+`data set url` <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
 `Codebook.md` variables
