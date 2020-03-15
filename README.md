@@ -1,5 +1,5 @@
 # getting-cleaning-data
-Getting and Cleaning Data Course Project
+`Getting and Cleaning Data Course Project`
 
 **run_analysis.R** script file, which does the following:
 1. Downloads and unzips data set
