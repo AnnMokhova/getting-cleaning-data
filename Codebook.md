@@ -1,6 +1,16 @@
 Getting and Cleaning Data Course Project
 =====================
 
+Modifications
+-----------------------------------
+The original data set was modified in the following steps (they are also commented in the script file):
+* Getting data from the Internet and zipped file
+* Merging the training and testing sets in order to create one data set
+* Extracting only the measurements on the mean and standard deviation for each measurement (can be observed below)
+* Using descriptive activity names to name the activities in the data set
+* Labelling the data set with descriptive variable names
+* Creating a tidy data set
+
 Variables
 -----------------------------------
 
